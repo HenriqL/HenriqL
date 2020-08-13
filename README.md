@@ -1,8 +1,10 @@
-### Bem vindo! 👋
+<h2 align="center">
+  <img src="https://64.media.tumblr.com/8c26d736025d5ea79aa09fd853e4b804/dec100daefab0d0c-13/s400x600/28f34d174c80688af74364f47e671a6b9b93bbd4.png">
+</h2>
 
 <!--
 **HenriqL/HenriqL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Bem vindo! 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
