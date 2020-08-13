@@ -7,25 +7,7 @@
 - 🚀 Atualmente, estou aprendendo: JavaScript, ReactJs e React Native <br>
 - 💬 Pergunte-me sobre: Tecnologia, Fotografia e Design<br>
 - 📣 entre em contato comigo<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![Linkedin]](https://www.linkedin.com/in/henrique-silva-9a6b9a1b4/)
 
 
 
